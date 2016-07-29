@@ -4,6 +4,8 @@
 
 ## Video Console
 
+![](https://raw.githubusercontent.com/huangmubin/WorkNotes/master/Images/VideoConsole.png)
+
 A Apple Video Console View.
 
 Use: 
